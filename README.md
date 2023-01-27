@@ -4,6 +4,10 @@ Scripts and data used in article "Bom Dia! A Frenética Política Apolítica dos
 
 For more information on how to cite and use this materials, please refer to [colab.uff.br](http://colab-uff.github.io).
 
+[](https://raw.githubusercontent.com/ombudsmanviktor/data_bomdia/main/charts/img1.png)
+
+[](https://raw.githubusercontent.com/ombudsmanviktor/data_bomdia/main/charts/img2.png)
+
 
 ## Recognizing the files
 
